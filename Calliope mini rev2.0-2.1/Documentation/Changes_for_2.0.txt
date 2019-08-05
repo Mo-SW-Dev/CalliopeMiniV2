@@ -1,0 +1,33 @@
+Changes from Rev. 1.3 to 2.0
+
+2.0.1 - IC6 changed from M45PE to IS25LP128F
+2.0.2 - modified routing for IC6, so Top Layer and Bottom Layer are now different
+2.0.3 - modified Revision number to 2.0
+2.0.4 - C37 and C38 have to be mounted now, those are neccessary for the IC6
+2.0.5 - Bottom Silkscreen modified to new design
+2.0.6 - Top Silkscreen modified to new design (Symbols instead of text)
+2.0.7 - IC4 Pin15 VDD from USB_VREG to VCC
+2.0.8 - IC4 Pin7 VDDA from USB_VREG to VCC
+2.0.9 - R33 from from USB_VREG to VCC
+2.0.10 - R34 from USB_VREG to VCC
+2.0.11 - C5 from USB_VREG to VCC
+
+
+
+Changes from Rev. 1.2 to 1.3
+
+1.3.1 - Silkscreen on the top layer changed
+1.3.2 - Silkscreen on the Bottom Layer changed
+1.3.3 - Revision number changed to 1.3
+1.3.4 - R21 changed to 680k
+1.3.5 - R5 changed to 680k
+1.3.6 - R49 added with 390k
+1.3.7 - modified motor connector JP1 for pressfit 
+1.3.8 - adapted PCB Layout for new part R49
+1.3.9 - improved GND distribution in the PCB Layout
+
+ 
+
+
+
+
